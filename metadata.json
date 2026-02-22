@@ -1,0 +1,5 @@
+{
+  "name": "Active Shock Absorber",
+  "description": "A simulation of an active shock absorber with customizable damping functions, phase portraits, and time series visualizations.",
+  "requestFramePermissions": []
+}
